@@ -34,6 +34,16 @@ beforeEach(() => {
 				}
 			}
 		],
+		govBuildings: [
+			{
+				type: 'SCHOOL',
+				budget: 400000
+			},
+			{
+				type: 'SHOP',
+				budget: 1000000
+			}
+		],
 		citizens: 900000
 	}
 })

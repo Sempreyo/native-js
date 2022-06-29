@@ -12,8 +12,14 @@ type HouseType = {
 	address: AddressType
 }
 
+export type govType = {
+	type: 'SCHOOL' | 'SHOP',
+	budget: number
+}
+
 export type GlobalCityType = {
 	title: string
-	houses: Array<HouseType>
+	houses: Array<HouseType>,
+	govBuildings: Array<govType>
 	citizens: number
 }
