@@ -8,6 +8,7 @@ type AddressType = {
 }
 
 type HouseType = {
+	id?: number,
 	repaired: boolean
 	address: AddressType
 }
