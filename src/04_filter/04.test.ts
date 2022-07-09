@@ -1,4 +1,4 @@
-import {GlobalCityType} from "../02/02_1";
+import {GlobalCityType} from "../02_objects/02_1";
 import {destroyHouseOnTheStreet} from './04';
 
 let city: GlobalCityType;

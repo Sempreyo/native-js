@@ -1,4 +1,4 @@
-import {govType} from '../02/02_1';
+import {govType} from '../02_objects/02_1';
 
 export type PeopleType = {
 	name: string

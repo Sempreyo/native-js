@@ -1,5 +1,5 @@
 import {createMessage, getGovBuildingsList, PeopleType} from './05';
-import {GlobalCityType} from '../02/02_1';
+import {GlobalCityType} from '../02_objects/02_1';
 
 let city: GlobalCityType;
 let peoples2: Array<PeopleType> = []

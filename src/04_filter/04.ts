@@ -1,4 +1,4 @@
-import {GlobalCityType} from '../02/02_1';
+import {GlobalCityType} from '../02_objects/02_1';
 
 const ages = [18, 20, 90, 12, 54, 98];
 

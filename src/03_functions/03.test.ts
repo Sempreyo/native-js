@@ -1,5 +1,5 @@
 import {addMoneyToBudget, addSkill, checkLocation, makePersonAsStudent} from "./03";
-import {GlobalCityType} from "../02/02_1";
+import {GlobalCityType} from "../02_objects/02_1";
 
 let studentItem: StudentType;
 let city: GlobalCityType;
